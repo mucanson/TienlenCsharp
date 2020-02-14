@@ -1,0 +1,84 @@
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\TienLen\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\TienLen\Server\obj\Debug\Server.Server.resources
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\TienLen\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\TienLen\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\TienLen\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\17521\AppData\Local\Temp\Do_an_cuoi_ki_tien_len\Do an cuoi ki tien len\TienLen\Server\bin\Debug\Server.exe.config
+C:\Users\17521\AppData\Local\Temp\Do_an_cuoi_ki_tien_len\Do an cuoi ki tien len\TienLen\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\17521\AppData\Local\Temp\Do_an_cuoi_ki_tien_len\Do an cuoi ki tien len\TienLen\Server\obj\Debug\Server.Server.resources
+C:\Users\17521\AppData\Local\Temp\Do_an_cuoi_ki_tien_len\Do an cuoi ki tien len\TienLen\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\17521\AppData\Local\Temp\Do_an_cuoi_ki_tien_len\Do an cuoi ki tien len\TienLen\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\17521\AppData\Local\Temp\Do_an_cuoi_ki_tien_len\Do an cuoi ki tien len\TienLen\Server\bin\Debug\Server.exe
+C:\Users\17521\AppData\Local\Temp\Do_an_cuoi_ki_tien_len\Do an cuoi ki tien len\TienLen\Server\bin\Debug\Server.pdb
+C:\Users\17521\AppData\Local\Temp\Do_an_cuoi_ki_tien_len\Do an cuoi ki tien len\TienLen\Server\obj\Debug\Server.exe
+C:\Users\17521\AppData\Local\Temp\Do_an_cuoi_ki_tien_len\Do an cuoi ki tien len\TienLen\Server\obj\Debug\Server.pdb
+C:\Users\17521\Desktop\File Location\Do_an_cuoi_ki_tien_len\New folder\TienLen\Server\bin\Debug\Server.exe.config
+C:\Users\17521\Desktop\File Location\Do_an_cuoi_ki_tien_len\New folder\TienLen\Server\obj\Debug\Server.exe
+C:\Users\17521\Desktop\File Location\Do_an_cuoi_ki_tien_len\New folder\TienLen\Server\obj\Debug\Server.pdb
+C:\Users\17521\Desktop\File Location\Do_an_cuoi_ki_tien_len\New folder\TienLen\Server\bin\Debug\Server.exe
+C:\Users\17521\Desktop\File Location\Do_an_cuoi_ki_tien_len\New folder\TienLen\Server\bin\Debug\Server.pdb
+C:\Users\17521\Desktop\File Location\Do_an_cuoi_ki_tien_len\New folder\TienLen\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\17521\Desktop\File Location\Do_an_cuoi_ki_tien_len\New folder\TienLen\Server\obj\Debug\Server.Server.resources
+C:\Users\17521\Desktop\File Location\Do_an_cuoi_ki_tien_len\New folder\TienLen\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\17521\Desktop\File Location\Do_an_cuoi_ki_tien_len\New folder\TienLen\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\17521\Desktop\File Location\Do_an_cuoi_ki_tien_len\New folder - Copy\TienLen\Server\bin\Debug\Server.exe.config
+C:\Users\17521\Desktop\File Location\Do_an_cuoi_ki_tien_len\New folder - Copy\TienLen\Server\obj\Debug\Server.exe
+C:\Users\17521\Desktop\File Location\Do_an_cuoi_ki_tien_len\New folder - Copy\TienLen\Server\obj\Debug\Server.pdb
+C:\Users\17521\Desktop\File Location\Do_an_cuoi_ki_tien_len\New folder - Copy - Copy\TienLen\Server\bin\Debug\Server.exe.config
+C:\Users\17521\Desktop\File Location\Do_an_cuoi_ki_tien_len\New folder - Copy - Copy\TienLen\Server\obj\Debug\Server.exe
+C:\Users\17521\Desktop\File Location\Do_an_cuoi_ki_tien_len\New folder - Copy - Copy\TienLen\Server\obj\Debug\Server.pdb
+C:\Users\17521\Desktop\File Location\Do_an_cuoi_ki_tien_len\New folder - Copy - Copy\TienLen\Server\bin\Debug\Server.exe
+C:\Users\17521\Desktop\File Location\Do_an_cuoi_ki_tien_len\New folder - Copy - Copy\TienLen\Server\bin\Debug\Server.pdb
+C:\Users\17521\Desktop\File Location\Do_an_cuoi_ki_tien_len\New folder - Copy - Copy\TienLen\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\17521\Desktop\File Location\Do_an_cuoi_ki_tien_len\New folder - Copy - Copy\TienLen\Server\obj\Debug\Server.Server.resources
+C:\Users\17521\Desktop\File Location\Do_an_cuoi_ki_tien_len\New folder - Copy - Copy\TienLen\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\17521\Desktop\File Location\Do_an_cuoi_ki_tien_len\New folder - Copy - Copy\TienLen\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\nguyen\Desktop\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\bin\Debug\Server.exe.config
+C:\Users\nguyen\Desktop\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\bin\Debug\Server.exe
+C:\Users\nguyen\Desktop\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\bin\Debug\Server.pdb
+C:\Users\nguyen\Desktop\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\nguyen\Desktop\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\obj\Debug\Server.Server.resources
+C:\Users\nguyen\Desktop\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\nguyen\Desktop\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\nguyen\Desktop\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\nguyen\Desktop\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\obj\Debug\Server.exe
+C:\Users\nguyen\Desktop\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\obj\Debug\Server.pdb
+C:\Users\17521\Desktop\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\bin\Debug\Server.exe.config
+C:\Users\17521\Desktop\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\obj\Debug\Server.exe
+C:\Users\17521\Desktop\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\obj\Debug\Server.pdb
+C:\Users\17521\Desktop\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\bin\Debug\Server.exe
+C:\Users\17521\Desktop\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\bin\Debug\Server.pdb
+C:\Users\17521\Desktop\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\17521\Desktop\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\obj\Debug\Server.Server.resources
+C:\Users\17521\Desktop\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\17521\Desktop\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\bin\Debug\Server.exe.config
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\bin\Debug\Server.exe
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\bin\Debug\Server.pdb
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\obj\Debug\Server.Server.resources
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\obj\Debug\Server.exe
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Server\obj\Debug\Server.pdb
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy\Server\obj\Debug\Server.Server.resources
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy\Server\obj\Debug\Server.exe
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy\Server\obj\Debug\Server.pdb
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy\Server\bin\Debug\Server.exe.config
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy\Server\bin\Debug\Server.exe
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy\Server\bin\Debug\Server.pdb
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy - Copy\Server\bin\Debug\Server.exe.config
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy - Copy\Server\bin\Debug\Server.exe
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy - Copy\Server\bin\Debug\Server.pdb
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy - Copy\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy - Copy\Server\obj\Debug\Server.Server.resources
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy - Copy\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy - Copy\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy - Copy\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy - Copy\Server\obj\Debug\Server.exe
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy - Copy\Server\obj\Debug\Server.pdb

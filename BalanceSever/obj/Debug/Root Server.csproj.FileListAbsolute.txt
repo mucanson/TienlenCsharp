@@ -1,0 +1,15 @@
+C:\Users\chepchip\Documents\SharpDevelop Projects\Game Xuc xac\Game Xuc xac - Root\obj\Debug\Root Server.csprojResolveAssemblyReference.cache
+C:\Users\chepchip\Documents\SharpDevelop Projects\Game Xuc xac\Game Xuc xac - Root\obj\Debug\Game_Xuc_xac.MainForm.resources
+C:\Users\chepchip\Documents\SharpDevelop Projects\Game Xuc xac\Game Xuc xac - Root\obj\Debug\Root Server.csproj.GenerateResource.Cache
+C:\Users\chepchip\Documents\SharpDevelop Projects\Game Xuc xac\Game Xuc xac - Root\obj\Debug\BackupServer.exe
+C:\Users\chepchip\Documents\SharpDevelop Projects\Game Xuc xac\Game Xuc xac - Root\bin\Debug\BackupServer.exe
+C:\Users\chepchip\Documents\SharpDevelop Projects\Game Xuc xac\Game Xuc xac - Root\bin\Debug\BackupServer.pdb
+C:\Users\chepchip\Documents\SharpDevelop Projects\Game Xuc xac\Game Xuc xac - Root\obj\Debug\BackupServer.pdb
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\Game Xuc xac\Game Xuc xac\Game Xuc xac - Root\bin\Debug\BackupServer.exe
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\Game Xuc xac\Game Xuc xac\Game Xuc xac - Root\bin\Debug\BackupServer.pdb
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\Game Xuc xac\Game Xuc xac\Game Xuc xac - Root\obj\Debug\Root Server.csprojAssemblyReference.cache
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\Game Xuc xac\Game Xuc xac\Game Xuc xac - Root\obj\Debug\Game_Xuc_xac.MainForm.resources
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\Game Xuc xac\Game Xuc xac\Game Xuc xac - Root\obj\Debug\Root Server.csproj.GenerateResource.cache
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\Game Xuc xac\Game Xuc xac\Game Xuc xac - Root\obj\Debug\Root Server.csproj.CoreCompileInputs.cache
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\Game Xuc xac\Game Xuc xac\Game Xuc xac - Root\obj\Debug\BackupServer.exe
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\Game Xuc xac\Game Xuc xac\Game Xuc xac - Root\obj\Debug\BackupServer.pdb

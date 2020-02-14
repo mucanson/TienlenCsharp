@@ -1,0 +1,12 @@
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\BalanceSever\obj\Debug\BalanceSever.Properties.Resources.resources
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\BalanceSever\obj\Debug\BalanceSever.csproj.GenerateResource.cache
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\BalanceSever\obj\Debug\BalanceSever.csproj.CoreCompileInputs.cache
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\BalanceSever\obj\Debug\BalanceSever.csprojAssemblyReference.cache
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\BalanceSever\bin\Debug\BalanceSever.exe.config
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\BalanceSever\bin\Debug\BalanceSever.exe
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\BalanceSever\bin\Debug\BalanceSever.pdb
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\BalanceSever\obj\Debug\BalanceSever.exe
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\BalanceSever\obj\Debug\BalanceSever.pdb
+D:\TienLen - Copy - Copy - Copy - Copy (2)\TienLen - Copy - Copy - Copy - Copy (2)\BalanceSever\bin\Debug\BalanceSever.exe.config
+D:\TienLen - Copy - Copy - Copy - Copy (2)\TienLen - Copy - Copy - Copy - Copy (2)\BalanceSever\obj\Debug\BalanceSever.exe
+D:\TienLen - Copy - Copy - Copy - Copy (2)\TienLen - Copy - Copy - Copy - Copy (2)\BalanceSever\obj\Debug\BalanceSever.pdb

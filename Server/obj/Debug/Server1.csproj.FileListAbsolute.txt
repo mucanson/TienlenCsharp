@@ -1,0 +1,29 @@
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\Server\bin\Debug\Server.exe.config
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\Server\bin\Debug\Server.exe
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\Server\bin\Debug\Server.pdb
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\Server\obj\Debug\Server1.csprojAssemblyReference.cache
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\Server\obj\Debug\Server.Server.resources
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\Server\obj\Debug\Server1.csproj.GenerateResource.cache
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\Server\obj\Debug\Server1.csproj.CoreCompileInputs.cache
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\Server\obj\Debug\Server.exe
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\Server\obj\Debug\Server.pdb
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy - Copy (2)\Server\bin\Debug\Server.exe.config
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy - Copy (2)\Server\bin\Debug\Server.exe
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy - Copy (2)\Server\bin\Debug\Server.pdb
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy - Copy (2)\Server\obj\Debug\Server1.csprojAssemblyReference.cache
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy - Copy (2)\Server\obj\Debug\Server.Server.resources
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy - Copy (2)\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy - Copy (2)\Server\obj\Debug\Server1.csproj.GenerateResource.cache
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy - Copy (2)\Server\obj\Debug\Server1.csproj.CoreCompileInputs.cache
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy - Copy (2)\Server\obj\Debug\Server.exe
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy - Copy (2)\Server\obj\Debug\Server.pdb
+D:\TienLen - Copy - Copy - Copy - Copy (2)\TienLen - Copy - Copy - Copy - Copy (2)\Server\bin\Debug\Server.exe.config
+D:\TienLen - Copy - Copy - Copy - Copy (2)\TienLen - Copy - Copy - Copy - Copy (2)\Server\obj\Debug\Server.exe
+D:\TienLen - Copy - Copy - Copy - Copy (2)\TienLen - Copy - Copy - Copy - Copy (2)\Server\obj\Debug\Server.pdb
+D:\TienLen - Copy - Copy - Copy - Copy (2)\TienLen - Copy - Copy - Copy - Copy (2)\Server\obj\Debug\Server1.csprojResolveAssemblyReference.cache
+D:\TienLen - Copy - Copy - Copy - Copy (2)\TienLen - Copy - Copy - Copy - Copy (2)\Server\obj\Debug\Server.Server.resources
+D:\TienLen - Copy - Copy - Copy - Copy (2)\TienLen - Copy - Copy - Copy - Copy (2)\Server\obj\Debug\Server.Properties.Resources.resources
+D:\TienLen - Copy - Copy - Copy - Copy (2)\TienLen - Copy - Copy - Copy - Copy (2)\Server\obj\Debug\Server1.csproj.GenerateResource.Cache
+D:\TienLen - Copy - Copy - Copy - Copy (2)\TienLen - Copy - Copy - Copy - Copy (2)\Server\bin\Debug\Server.exe
+D:\TienLen - Copy - Copy - Copy - Copy (2)\TienLen - Copy - Copy - Copy - Copy (2)\Server\bin\Debug\Server.pdb

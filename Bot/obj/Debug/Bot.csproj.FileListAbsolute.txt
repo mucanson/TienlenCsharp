@@ -1,0 +1,26 @@
+C:\Users\17521\Desktop\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Bot\bin\Debug\Bot.exe.config
+C:\Users\17521\Desktop\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Bot\bin\Debug\Bot.exe
+C:\Users\17521\Desktop\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Bot\bin\Debug\Bot.pdb
+C:\Users\17521\Desktop\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Bot\obj\Debug\Bot.csprojResolveAssemblyReference.cache
+C:\Users\17521\Desktop\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Bot\obj\Debug\Bot.Form1.resources
+C:\Users\17521\Desktop\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Bot\obj\Debug\Bot.Properties.Resources.resources
+C:\Users\17521\Desktop\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Bot\obj\Debug\Bot.csproj.GenerateResource.Cache
+C:\Users\17521\Desktop\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Bot\obj\Debug\Bot.exe
+C:\Users\17521\Desktop\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Bot\obj\Debug\Bot.pdb
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Bot\bin\Debug\Bot.exe.config
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Bot\bin\Debug\Bot.exe
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Bot\bin\Debug\Bot.pdb
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Bot\obj\Debug\Bot.csprojAssemblyReference.cache
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Bot\obj\Debug\Bot.Form1.resources
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Bot\obj\Debug\Bot.Properties.Resources.resources
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Bot\obj\Debug\Bot.csproj.GenerateResource.cache
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Bot\obj\Debug\Bot.csproj.CoreCompileInputs.cache
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Bot\obj\Debug\Bot.exe
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen\Bot\obj\Debug\Bot.pdb
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy\Bot\obj\Debug\Bot.csprojAssemblyReference.cache
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy\Bot\obj\Debug\Bot.Form1.resources
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy\Bot\obj\Debug\Bot.Properties.Resources.resources
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy\Bot\obj\Debug\Bot.csproj.GenerateResource.cache
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy\Bot\obj\Debug\Bot.csproj.CoreCompileInputs.cache
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy\Bot\obj\Debug\Bot.exe
+C:\Users\nguyen\Desktop\Do an cuoi ki tien len\New_folder_-_Copy_-_Copy\New_folder_-_Copy_-_Copy\New folder - Copy - Copy\New folder - Copy - Copy\TienLen - Copy\Bot\obj\Debug\Bot.pdb

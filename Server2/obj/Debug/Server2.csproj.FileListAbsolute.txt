@@ -1,0 +1,19 @@
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\Server2\obj\Debug\Server2.csprojAssemblyReference.cache
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\Server2\obj\Debug\Server2.Properties.Resources.resources
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\Server2\obj\Debug\Server2.csproj.GenerateResource.cache
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\Server2\obj\Debug\Server2.csproj.CoreCompileInputs.cache
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\Server2\bin\Debug\Server2.exe.config
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\Server2\bin\Debug\Server2.exe
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\Server2\bin\Debug\Server2.pdb
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\Server2\obj\Debug\Server2.exe
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\Server2\obj\Debug\Server2.pdb
+C:\Users\nguyen\Desktop\TienLen - Copy - Copy - Copy\Server2\obj\Debug\Server.Server.resources
+D:\TienLen - Copy - Copy - Copy - Copy (2)\TienLen - Copy - Copy - Copy - Copy (2)\Server2\obj\Debug\Server2.csprojResolveAssemblyReference.cache
+D:\TienLen - Copy - Copy - Copy - Copy (2)\TienLen - Copy - Copy - Copy - Copy (2)\Server2\obj\Debug\Server2.Properties.Resources.resources
+D:\TienLen - Copy - Copy - Copy - Copy (2)\TienLen - Copy - Copy - Copy - Copy (2)\Server2\obj\Debug\Server.Server.resources
+D:\TienLen - Copy - Copy - Copy - Copy (2)\TienLen - Copy - Copy - Copy - Copy (2)\Server2\obj\Debug\Server2.csproj.GenerateResource.Cache
+D:\TienLen - Copy - Copy - Copy - Copy (2)\TienLen - Copy - Copy - Copy - Copy (2)\Server2\obj\Debug\Server2.exe
+D:\TienLen - Copy - Copy - Copy - Copy (2)\TienLen - Copy - Copy - Copy - Copy (2)\Server2\obj\Debug\Server2.pdb
+D:\TienLen - Copy - Copy - Copy - Copy (2)\TienLen - Copy - Copy - Copy - Copy (2)\Server2\bin\Debug\Server2.exe.config
+D:\TienLen - Copy - Copy - Copy - Copy (2)\TienLen - Copy - Copy - Copy - Copy (2)\Server2\bin\Debug\Server2.exe
+D:\TienLen - Copy - Copy - Copy - Copy (2)\TienLen - Copy - Copy - Copy - Copy (2)\Server2\bin\Debug\Server2.pdb

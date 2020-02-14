@@ -1,0 +1,6 @@
+C:\Users\chepchip\Documents\SharpDevelop Projects\Game Xuc xac\Game Xuc xac\bin\Debug\BackupServer.exe
+C:\Users\chepchip\Documents\SharpDevelop Projects\Game Xuc xac\Game Xuc xac\bin\Debug\BackupServer.pdb
+C:\Users\chepchip\Documents\SharpDevelop Projects\Game Xuc xac\Game Xuc xac\obj\Debug\Game_Xuc_xac.MainForm.resources
+C:\Users\chepchip\Documents\SharpDevelop Projects\Game Xuc xac\Game Xuc xac\obj\Debug\BackupServer.csproj.GenerateResource.Cache
+C:\Users\chepchip\Documents\SharpDevelop Projects\Game Xuc xac\Game Xuc xac\obj\Debug\BackupServer.exe
+C:\Users\chepchip\Documents\SharpDevelop Projects\Game Xuc xac\Game Xuc xac\obj\Debug\BackupServer.pdb
